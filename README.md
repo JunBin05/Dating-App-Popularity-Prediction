@@ -1,5 +1,16 @@
 # Dating Profile Popularity Prediction & Dashboard
 
+### Group Information
+- **Occurrence**: 8
+- **Group No**: 2
+- **Group Members**:
+  1. Chew Kean Hong (25006697/1)
+  2. Tey Yong Zhun (25006379/1)
+  3. Edrian Tan Kah Heng (25006656/1)
+  4. Lim Jun Bin (25006412/1)
+  5. Teh Xu Zhe (25006355/1)
+  6. Ibragim Abdulaev (25054912/1)
+
 An interactive machine learning project designed to predict and analyze dating profile popularity based on user behavior, demographics, and engagement metrics. This project includes a comprehensive data analysis notebook and a Streamlit-based dashboard for real-time predictions and model evaluation.
 
 ## 🚀 Overview
@@ -82,14 +93,3 @@ The project uses a target variable `is_high_tier` derived from the `mutual_match
 
 ---
 *Created as part of the Machine Learning course (WIA1006).*
-
-### Group Information
-- **Occurrence**: 8
-- **Group No**: 2
-- **Group Members**:
-  1. Chew Kean Hong (25006697/1)
-  2. Tey Yong Zhun (25006379/1)
-  3. Edrian Tan Kah Heng (25006656/1)
-  4. Lim Jun Bin (25006412/1)
-  5. Teh Xu Zhe (25006355/1)
-  6. Ibragim Abdulaev (25054912/1)
